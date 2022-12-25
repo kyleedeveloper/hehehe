@@ -1,0 +1,31 @@
+﻿<table border="1">
+									<thead>
+										<tr>
+										<th>#</th>
+											<th>GSM Hak</th>
+											<th>Email</th>
+											<th>Üyelik Durumu</th>
+											<th>Bakiye</th>
+											<th>Kullanıcı Adı</th>
+										</tr>
+									</thead>
+
+  
+<tr>  
+<td>1</td> 
+<td>99</td> 
+<td>deneme@gmail.com</td> 
+<td>DedPass</td> 
+<td>500.00</td> 
+<td>deneme</td> 					
+</tr>  
+  
+<tr>  
+<td>2</td> 
+<td>31</td> 
+<td>kaan@gmail.com</td> 
+<td>Premium+</td> 
+<td>31.00</td> 
+<td>orospukaan</td> 					
+</tr>  
+</table>
